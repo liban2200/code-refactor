@@ -191,7 +191,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* styling for benefit end */
+/* styling for footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -202,3 +203,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* styling for footer end */
